@@ -12,6 +12,10 @@ export default function Main() {
                 <h2>Tilt effect coming soon!</h2>
 
                 <button className="button">Button</button>
+
+                <div id="src-code">
+                    <a href="https://github.com/jainam03/glassmorphism-in-react" target="_blank" >Source code</a>
+                </div>
             </div>
         </div>
 
