@@ -1,3 +1,3 @@
 # project to strenghthen my React muscle memory! 🤓
 
-# project link -
+# project link - https://jainam03.github.io/glassmorphism-in-react/
