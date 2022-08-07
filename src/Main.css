@@ -1,0 +1,66 @@
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 30px;
+}
+
+.card {
+    width: 400px;
+    height: 550px;
+
+    border: none;
+    border-radius: 20px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(1.5px);
+
+}
+
+.card>h2 {
+    margin: 40px;
+    color: skyblue;
+}
+
+
+
+.button {
+
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1.5px);
+    color: transparent;
+
+
+
+
+    width: 30px;
+    height: 40px;
+    overflow: hidden;
+
+    border: none;
+    border-radius: 30px;
+
+    font-size: large;
+    font-weight: bold;
+
+    transition: 0.4s;
+}
+
+.button:hover {
+    width: 140px;
+    height: 40px;
+
+    color: black;
+}
+
+.button:active {
+    /*transform: translateY(16px);*/
+
+}
