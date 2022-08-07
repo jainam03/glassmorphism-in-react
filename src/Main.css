@@ -9,7 +9,9 @@
 
 .card {
     width: 400px;
-    height: 550px;
+    height: 40px;
+    color: transparent;
+    overflow: hidden;
 
     border: none;
     border-radius: 20px;
@@ -21,6 +23,23 @@
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(1.5px);
 
+    transition: 0.5s;
+
+}
+
+.card:hover {
+    width: 400px;
+    height: 550px;
+
+}
+
+.card>h1 {
+    color: black;
+    transition: 0.4s;
+}
+
+.card>h1:hover {
+    color: transparent;
 }
 
 .card>h2 {
