@@ -1,5 +1,4 @@
 import React from "react";
-import Tilt from "react-vanilla-tilt"
 
 import "./Main.css"
 
