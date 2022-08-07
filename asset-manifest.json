@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/glassmorphism-in-react/static/css/main.8acc7f8f.css",
+    "main.js": "/glassmorphism-in-react/static/js/main.9ede076d.js",
+    "static/media/background.jpg": "/glassmorphism-in-react/static/media/background.2ce332b2be7a02dc5822.jpg",
+    "index.html": "/glassmorphism-in-react/index.html",
+    "main.8acc7f8f.css.map": "/glassmorphism-in-react/static/css/main.8acc7f8f.css.map",
+    "main.9ede076d.js.map": "/glassmorphism-in-react/static/js/main.9ede076d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8acc7f8f.css",
+    "static/js/main.9ede076d.js"
+  ]
+}
